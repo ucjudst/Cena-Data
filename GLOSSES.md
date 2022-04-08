@@ -1,5 +1,5 @@
 # Cena-Data
-Supplementary data for Stoianov et al. (2022)
+Glosses for supplementary data in Stoianov et al. (2022)
 
 Cena-Entity-1
 ----------------
